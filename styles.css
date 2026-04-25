@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 0.5rem;
+}
+
+main {
+    padding: 0rem 12rem;
+}
+
+section {
+    padding-bottom: 0.2rem;
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+    margin-bottom: 2rem;
+}
